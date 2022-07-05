@@ -1,7 +1,7 @@
 魔女です。
 
 ---
-I'm chiyoi, a newcomer programmer studying undergraduate of Computer Science, at China.
+I'm chiyoi, a newcomer of programming studying undergraduate of Computer Science, at China.
 
 * email: chiyoi2140@outlook.com
 * twitter: https://twitter.com/chiyoi2140
