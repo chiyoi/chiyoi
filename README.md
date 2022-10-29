@@ -3,5 +3,5 @@
 ---
 * chiyoi@neko03.com
 * https://twitter.com/chiyoi2140
-* https://leetcode.com/CHIYOI
-* https://www.neko03.com/ - personal webpage
+* https://leetcode.com/chiyoi
+* https://neko03.com/
