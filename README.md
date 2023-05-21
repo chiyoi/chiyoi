@@ -31,7 +31,7 @@ I like TypeScript/JavaScript as well. It is a very flexible language.
 
 ---
 
-## ......
+## And More...
 Rust is also a good language.
 
 In Rust, there are a large amount of elegent strategies,
@@ -40,5 +40,8 @@ With them we can write very beautiful code.
 
 At the same time, Rust is designed for memory security and high performance.
 Unlike C, the Rust compiler did most things for us.
+
+I have also tried Python, Java, C-Sharp and Swift.
+Maybe in the future I will use them to create something cool.
 
 *A programs is an art, coding is designing.*
