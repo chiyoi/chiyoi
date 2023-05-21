@@ -31,7 +31,7 @@ I like TypeScript/JavaScript as well. It is a very flexible language.
 
 ---
 
-### ......
+## ......
 Rust is also a good language.
 
 In Rust, there are a large amount of elegent strategies,
