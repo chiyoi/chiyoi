@@ -44,4 +44,4 @@ Unlike C, the Rust compiler did most things for us.
 I have also tried Python, Java, C-Sharp and Swift.
 Maybe in the future I will use them to create something cool.
 
-*A programs is an art, coding is designing.*
+*Programming is an art.*
