@@ -9,25 +9,16 @@
 
 ## Go
 Go is my favorite language. It is very simple, but very powerful.
-- Web Services
-  - Neko03: Service for *Neko03 Page*.
-  - Trinity: Message service.
-  - Atri: Message automata.
-  - Dis: Discord Application interaction endpoint.
-- Terminal Applications
-  - Oncorhynchus/trinity: The command-line interface for *Trinity* service.
 
 ---
 
 ## C
 I like C. It has a flavor of inferior beauty.
-- slice: A very simple slice library.
 
 ---
 
 ## TypeScript
 I like TypeScript/JavaScript as well. It is a very flexible language.
-- Neko03 Page: Web/Native application.
 
 ---
 
