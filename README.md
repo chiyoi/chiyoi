@@ -1,68 +1,63 @@
 # Chiyoi
 魔女です。
-- E-mail: chiyoi@neko03.moe
-- My page: https://neko03.moe/chiyoi
-- Twitter: https://twitter.com/chiyoi2140
-- Leetcode: https://leetcode.com/chiyoi
+- chiyoi@neko03.moe
+- https://neko03.moe/chiyoi
+- https://twitter.com/chiyoi2140
+- https://leetcode.com/chiyoi
 
 ---
 
 ## Go
-Go is the best language. It is very simple, but very powerful.
+Go is our favourite language. It is very simple, but very powerful.
 
 For building web services, the standard library `net/http` provides a `Server`-`Handler` architecture as a basic framework.
-By defining our `Handler`s, we can easily build any type of web services.
-We can also control the underlying network configurations like listening address and TLS configurations
-by configuring the `Server`.
+By defining our `Handler`s, we can easily build a wide range of web services.
+By configuring the `Server`, we can control the behavior of the underlying network, like the listening address and the TLS configuration.
 
-There are also some language features make this work even easier.
+There are some features make this work even easier.
 Using `context`, we can pass data synchronously during a HTTP request, and control the lifecycle of our service.
 Using `chan`, we can pass data asynchronously among handlers or other parts of our program.
 
-It also lifted some commonly used utilities onto the language level, like `map` and `slice`.
-For common operations, like get or set items, iteration over elements, pre-allocate memory and free them,
-we can use nearly the same syntax for both the containers.
-We can also extend the containers for more specific tasks, like using `map[type]bool` as hash set and using slice as queue or stack.
-
-All of these features makes Go a very simple and easy to use language.
+Go lifted some commonly used utilities onto the language level, like containers `map` and `slice`.
+The syntax for common operations, like get, set, iterate, and pre-allocate memory, are almost the same.
+Some other common data structures, like hash set and queue, can also be emulated by these basic containers, which leads to a minimal language API.
 
 ---
 
 ## C
-C is also a good language, it has a flavor of inferior beauty.
+C is a very first and very last programming language.
 
-In C, we can control the memory on our own, and think like a computer.
-When designing algorithms in C, we should clearify the detailed work for each step,
-including the memory positions it modified and the resources it should request or release.
+We control the data on our own, and think like a computer.
+When designing algorithms in C, we are clear with the detailed work the computer will do for each step.
 
-We can customize every part of our program to fit the specific task, and optimize our implementation
-to get the highest efficiency. As a result, C is good for building infrastructures like codec libraries
-or network protocol implementations.
+C is one of the very first programming languages, but is good until now.
 
 ---
 
 ## TypeScript with React
 TypeScript with React is especially suitable for building graphical application.
 
-TypeScript based on JavaScript, which is a very flexible language, and has a good support for
-functional like programming. The typing system in TypeScript is also flexible and smart, so that
-we can easily write codes while guaranteeing type safety.
+TypeScript is a very flexible language.
+It has good support for functional-style programming.
+The typing system is flexible and smart, so that we can easily write code, and guarantee type safety at the same time.
 
-Using `state` and `render` in React, we can design a graphical application in a declarative way.
-We can define our application as multiple `state`s, each has a pure `render` process,
-and move among them when getting user interactions or other events out of the application.
+React allows us to design graphical applications declaratively, with `state` and `render`.
+We define our application as multiple `state`s, each has a pure `render` process.
+After getting user interactions or other events, the application moves among `state`s and the graphical interface automatically re-`render`s.
 
 ---
 
 ## Rust
 Rust is a beautiful language.
 
-In Rust, there are a large amount of elegent strategies,
-for example last-line-return and functional iterators.
-With them we can write very beautiful code.
+Elegent language features allow us to write very beautiful code.
+Last-line return and value of control flow let us design functions without any explicite return.
 
-At the same time, Rust is designed for memory security and high performance.
-Unlike C, the Rust compiler did most things for us.
+Functional iterators pack the data and operations into monad.
+We can forget how to let computer work, and only think about what we want.
+
+Rust is designed for memory security and high performance.
+It has no internal memory manager, but unlike C, the compiler manages everything well.
 
 ---
 
