@@ -25,12 +25,10 @@ Some other common data structures, like hash set and queue, can also be emulated
 ---
 
 ## C
-C is a very first and very last programming language.
+C looks retro. It is one of the very first programming languages, but is good until now.
 
 We control the data on our own, and think like a computer.
 When designing algorithms in C, we are clear with the detailed work the computer will do for each step.
-
-C is one of the very first programming languages, but is good until now.
 
 ---
 
