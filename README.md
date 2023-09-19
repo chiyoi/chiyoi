@@ -1,5 +1,5 @@
 # Chiyoi
-魔女です。[🤍](https://neko03.moe/chiyoi)
+魔女です。[Nyan~](https://neko03.moe/chiyoi)
 - Business - chiyoi2140@outlook.com
 - Personal - chiyoi@neko03.moe
 * Twitter (This name is far better than X) - [@chiyoi2140](https://twitter.com/chiyoi2140)
