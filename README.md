@@ -1,26 +1,26 @@
 # Chiyoi
-魔女です。
-- chiyoi@neko03.moe
-- https://neko03.moe/chiyoi
-- https://twitter.com/chiyoi2140
-- https://leetcode.com/chiyoi
+魔女です。[🤍](https://neko03.moe/chiyoi)
+- Business - [chiyoi2140@outlook.com](chiyoi2140@outlook.com)
+- Personal - [chiyoi@neko03.moe](chiyoi@neko03.moe)
+* Twitter (This name is far better than X) - [@chiyoi2140](https://twitter.com/chiyoi2140)
+* Algorithm Solution Blog - [leetcode.com/chiyoi](https://leetcode.com/chiyoi)
 
 ---
 
 ## Go
-Go is our favourite language. It is very simple, but very powerful.
+[Go](https://go.dev/) is our favourite language. It is very simple, but very powerful.
 
-For building web services, the standard library `net/http` provides a `Server`-`Handler` architecture as a basic framework.
-By defining our `Handler`s, we can easily build a wide range of web services.
-By configuring the `Server`, we can control the behavior of the underlying network, like the listening address and the TLS configuration.
+For building web services, the standard library [`net/http`](https://pkg.go.dev/net/http) provides a `Server`-`Handler` architecture as a basic framework.
+By defining our [`Handler`](https://pkg.go.dev/net/http#Handler)s, we can easily build a wide range of web services.
+By configuring the [`Server`](https://pkg.go.dev/net/http#Server), we can control the behavior of the underlying network, like the listening address and the TLS configuration.
 
 There are some features make this work even easier.
-Using `context`, we can pass data synchronously during a HTTP request, and control the lifecycle of our service.
-Using `chan`, we can pass data asynchronously among handlers or other parts of our program.
+With [`context`](https://pkg.go.dev/context), we can pass data synchronously during a HTTP request, and control the lifecycle of our service.
+With [`chan`]([https://pkg.go.dev/go/types#Chan](https://go.dev/ref/spec#Channel_types)), we can pass data asynchronously among handlers or other parts of our program.
 
-Go lifted some commonly used utilities onto the language level, like containers `map` and `slice`.
-The syntax for common operations, like get, set, iterate, and pre-allocate memory, are almost the same.
-Some other common data structures, like hash set and queue, can also be emulated by these basic containers, which leads to a minimal language API.
+Go lifted some commonly used utilities onto the language level, like containers [`map`](https://go.dev/ref/spec#Map_types) and [`slice`](https://go.dev/ref/spec#Slice_types).
+The syntax is consistent for common operations, like get, set, iterate, and pre-allocate memory.
+With these powerful containers, we can easily implement other common data structures, like hash set and queue.
 
 ---
 
@@ -28,34 +28,32 @@ Some other common data structures, like hash set and queue, can also be emulated
 C looks retro. It is one of the very first programming languages, but is good until now.
 
 We control the data on our own, and think like a computer.
-When designing algorithms in C, we are clear with the detailed work the computer will do for each step.
+When designing algorithms in C, we are clear about the detailed work the computer will do for each step.
 
 ---
 
-## TypeScript with React
-TypeScript with React is especially suitable for building graphical application.
+## React
+[React](https://react.dev/) is especially suitable for graphical application.
 
-TypeScript is a very flexible language.
-It has good support for functional-style programming.
-The typing system is flexible and smart, so that we can easily write code, and guarantee type safety at the same time.
+We use the syntax of TypeScript, which is a very flexible language.
+It has a good support for functional-style programming, along with a smart typing system.
 
-React allows us to design graphical applications declaratively, with `state` and `render`.
-We define our application as multiple `state`s, each has a pure `render` process.
-After getting user interactions or other events, the application moves among `state`s and the graphical interface automatically re-`render`s.
+Features provided by React allow us to design applications declaratively.
+We define our application as multiple `state`s, each with a pure `render` process.
+Upon user interactions or other events, the `state` changes, and the display automatically re-`render`s.
 
 ---
 
 ## Rust
-Rust is a beautiful language.
+[Rust](https://www.rust-lang.org/) is a beautiful language.
 
-Elegent language features allow us to write very beautiful code.
-Last-line return and value of control flow let us design functions without any explicite return.
-
-Functional iterators pack the data and operations into monad.
-We can forget how to let computer work, and only think about what we want.
+Language features allow us to write elegent code.
+Pure functions came from last-line return, valued control flow and pattern match.
+Monads, data packed with operations, introduced by iterators.
+We forget how computers work, but only think about what we want.
 
 Rust is designed for memory security and high performance.
-It has no internal memory manager, but unlike C, the compiler manages everything well.
+It neither relies on an internal memory manager, nor lets programmer to do its job, but the compiler controls everything well.
 
 ---
 
