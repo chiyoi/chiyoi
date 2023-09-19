@@ -3,7 +3,7 @@
 - Business - chiyoi2140@outlook.com
 - Personal - chiyoi@neko03.moe
 * Twitter (This name is far better than X) - [@chiyoi2140](https://twitter.com/chiyoi2140)
-* Algorithm Solution Blog - [leetcode.com/chiyoi](https://leetcode.com/chiyoi)
+* Logs of algorithm solutions - [leetcode.com/chiyoi](https://leetcode.com/chiyoi)
 
 ---
 
