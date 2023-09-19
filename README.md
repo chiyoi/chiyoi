@@ -16,7 +16,7 @@ By configuring the [`Server`](https://pkg.go.dev/net/http#Server), we can contro
 
 There are some features make this work even easier.
 With [`context`](https://pkg.go.dev/context), we can pass data synchronously during a HTTP request, and control the lifecycle of our service.
-With [`chan`]([https://pkg.go.dev/go/types#Chan](https://go.dev/ref/spec#Channel_types)), we can pass data asynchronously among handlers or other parts of our program.
+With [`chan`](https://go.dev/ref/spec#Channel_types), we can pass data asynchronously among handlers or other parts of our program.
 
 Go lifted some commonly used utilities onto the language level, like containers [`map`](https://go.dev/ref/spec#Map_types) and [`slice`](https://go.dev/ref/spec#Slice_types).
 The syntax is consistent for common operations, like get, set, iterate, and pre-allocate memory.
