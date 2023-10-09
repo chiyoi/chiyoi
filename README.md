@@ -2,7 +2,7 @@
 魔女です。[Nyan~](https://neko03.moe/chiyoi)
 - Business - chiyoi2140@outlook.com
 - Personal - chiyoi@neko03.moe
-* Twitter (This name is far better than X) - [@chiyoi2140](https://twitter.com/chiyoi2140)
+* Twitter - [@chiyoi2140](https://twitter.com/chiyoi2140)
 * Logs of algorithm solutions - [leetcode.com/chiyoi](https://leetcode.com/chiyoi)
 
 ---
