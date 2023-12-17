@@ -1,4 +1,4 @@
-# Chiyoi
+# CHIYOI
 魔女です。[Nyan~](https://neko03.moe/chiyoi)
 - Business - chiyoi2140@outlook.com
 - Personal - chiyoi@neko03.moe
