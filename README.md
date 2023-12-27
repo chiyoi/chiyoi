@@ -1,9 +1,12 @@
 # CHIYOI
-魔女です。[Nyan~](https://neko03.moe/chiyoi)
-- Business - chiyoi2140@outlook.com
-- Personal - chiyoi@neko03.moe
-* Twitter - [@chiyoi2140](https://twitter.com/chiyoi2140)
-* Logs of algorithm solutions - [leetcode.com/chiyoi](https://leetcode.com/chiyoi)
+[Nyan~](https://neko03.moe/chiyoi)
+
+Address: [0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47](https://etherscan.io/address/0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47)
+
+Discord: [Neko03](https://discord.gg/92F2d47Kz5)\
+Twitter: [@chiyoi2140](https://twitter.com/chiyoi2140)\
+LeetCode: [chiyoi](https://leetcode.com/chiyoi)\
+NPM: [chiyoi2140](https://www.npmjs.com)
 
 ---
 
