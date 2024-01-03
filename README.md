@@ -1,6 +1,7 @@
 # CHIYOI
 [Nyan~](https://neko03.moe)
 
+Profile: [CHIYOI](https://gravatar.com/chiyoi2140)\
 Mail: chiyoi2140@outlook.com\
 Address (accept ETH donation): [0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47](https://etherscan.io/address/0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47)
 
