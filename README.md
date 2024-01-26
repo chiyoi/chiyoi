@@ -1,5 +1,6 @@
 # CHIYOI
-[Nyan~](https://neko03.moe)
+Nyan~
+> [neko03.moe](https://neko03.moe)
 
 Profile: [CHIYOI](https://gravatar.com/chiyoi2140)\
 Mail: chiyoi2140@outlook.com\
