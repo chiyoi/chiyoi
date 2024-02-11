@@ -1,5 +1,5 @@
-# Neko03
-Nyan~
+# Millenoctis
+にゃん〜
 > [neko03.moe](https://neko03.moe)
 
 [GitHub](https://github.com/chiyoi) / [Gist](https://gist.github.com/chiyoi)
