@@ -1,4 +1,4 @@
-# CHIYOI
+# Neko03
 Nyan~
 > [neko03.moe](https://neko03.moe)
 
