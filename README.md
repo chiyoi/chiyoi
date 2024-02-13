@@ -18,4 +18,5 @@ Links
 - MuseScore: [Millenoctis](https://musescore.com/user/49889570)
 - YouTube: [@chiyoi2140](https://www.youtube.com/@chiyoi2140)
 - NPM: [chiyoi2140](https://www.npmjs.com/~chiyoi2140)
-- Profile: [Millenoctis](https://gravatar.com/chiyoi2140)
+- LeetCode: [CHIYOI](https://leetcode.com/CHIYOI)
+- Gravatar Profile: [Millenoctis](https://gravatar.com/chiyoi2140)
