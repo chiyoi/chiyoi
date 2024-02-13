@@ -11,10 +11,11 @@ Pay
 - Ethereum: [0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47](https://etherscan.io/address/0xfF3080687d2C9B3Bb5e87eAAF855934180bA6d47)
 
 Links
-- Profile: [Millenoctis](https://gravatar.com/chiyoi2140)
 - Github: [Millenoctis](https://github.com/chiyoi)
 - Gist: [Millenoctis](https://gist.github.com/chiyoi)
 - itch.io: [Millenoctis](https://chiyoi.itch.io)
-- YouTube: [@chiyoi2140](https://www.youtube.com/@chiyoi2140)
 - Pixiv: [@chiyoi2140](https://www.pixiv.net/users/33257904)
+- MuseScore: [Millenoctis](https://musescore.com/user/49889570)
+- YouTube: [@chiyoi2140](https://www.youtube.com/@chiyoi2140)
 - NPM: [chiyoi2140](https://www.npmjs.com/~chiyoi2140)
+- Profile: [Millenoctis](https://gravatar.com/chiyoi2140)
