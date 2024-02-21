@@ -13,10 +13,8 @@ Pay
 Links
 - Github: [chiyoi](https://github.com/chiyoi)
 - Gist: [chiyoi](https://gist.github.com/chiyoi)
-- itch.io: [chiyoi](https://chiyoi.itch.io)
 - Pixiv: [33257904](https://www.pixiv.net/users/33257904)
 - MuseScore: [49889570](https://musescore.com/user/49889570)
 - YouTube: [@chiyoi2140](https://www.youtube.com/@chiyoi2140)
 - NPM: [chiyoi2140](https://www.npmjs.com/~chiyoi2140)
 - LeetCode: [CHIYOI](https://leetcode.com/CHIYOI)
-- Gravatar Profile: [Millenoctis](https://gravatar.com/chiyoi2140)
