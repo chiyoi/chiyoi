@@ -7,4 +7,4 @@ Contect
 
 Links
 - [GitHub](https://github.com/chiyoi) / [Gist](https://gist.github.com/chiyoi) (chiyoi)
-- LeetCode: [CHIYOI](https://leetcode.com/CHIYOI)
+- LeetCode: [Code Artist](https://leetcode.com/CHIYOI)
